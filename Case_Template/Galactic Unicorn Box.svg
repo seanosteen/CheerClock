@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1207.8 571.9" style="enable-background:new 0 0 1207.8 571.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FF0000;stroke-linecap:round;stroke-miterlimit:11.3386;}
+</style>
+<path id="front_outsideCutPath" vector-effect="non-scaling-stroke" class="st0" d="M27.1,467.5v26.6h8.5v40.4h-8.5v26.6H82v-8.5
+	h40.4v8.5h40.4v-8.5h40.4v8.5h40.4v-8.5H284v8.5h40.4v-8.5h40.4v8.5h40.4v-8.5h40.4v8.5H486v-8.5h40.4v8.5h40.4v-8.5h40.4v8.5h40.4
+	v-8.5H688v8.5h40.4v-8.5h40.4v8.5h40.4v-8.5h40.4v8.5H890v-8.5h40.4v8.5h54.9v-26.6h-8.5v-40.4h8.5v-26.6H27.1z"/>
+<path id="left_outsideCutPath" vector-effect="non-scaling-stroke" class="st0" d="M999.9,530.1h26.6v8.5h40.4v-8.5h26.6v-51.4h-8.5
+	v-40.4h8.5v-40.4h-8.5v-40.4h8.5v-40.4v-11h-26.6v-8.5h-40.4v8.5h-26.6V530.1z"/>
+<path id="back_outsideCutPath" vector-effect="non-scaling-stroke" class="st0" d="M27.1,365.5v26.6h8.5v40.4h-8.5v26.6H82v-8.5
+	h40.4v8.5h40.4v-8.5h40.4v8.5h40.4v-8.5H284v8.5h40.4v-8.5h40.4v8.5h40.4v-8.5h40.4v8.5H486v-8.5h40.4v8.5h40.4v-8.5h40.4v8.5h40.4
+	v-8.5H688v8.5h40.4v-8.5h40.4v8.5h40.4v-8.5h40.4v8.5H890v-8.5h40.4v8.5h54.9v-26.6h-8.5v-40.4h8.5v-26.6H27.1z"/>
+<g>
+	<path id="bottom_outsideCutPath" vector-effect="non-scaling-stroke" class="st0" d="M44.1,116.9v51.4h-8.5v40.4h8.5v40.4h-8.5
+		v40.4h8.5v40.4v11h46.4v8.5H131v-8.5h40.4v8.5h40.4v-8.5h40.4v8.5h40.4v-8.5H333v8.5h40.4v-8.5h40.4v8.5h40.4v-8.5h40.4v8.5H535
+		v-8.5h40.4v8.5h40.4v-8.5h40.4v8.5h40.4v-8.5H737v8.5h40.4v-8.5h40.4v8.5H858v-8.5h40.4v8.5h40.4v-8.5h46.4v-51.4h8.5v-40.4h-8.5
+		v-40.4h8.5v-40.4h-8.5v-40.4v-11h-46.4v-8.5h-40.4v8.5H858v-8.5h-40.4v8.5h-40.4v-8.5h-40.4v8.5h-40.4v-8.5H656v8.5h-40.4v-8.5
+		h-40.4v8.5h-40.4v-8.5h-40.4v8.5H454v-8.5h-40.4v8.5h-40.4v-8.5h-40.4v8.5h-40.4v-8.5H252v8.5h-40.4v-8.5h-40.4v8.5H131v-8.5H90.6
+		v8.5C90.6,116.9,44.1,116.9,44.1,116.9z"/>
+	<path class="st0" d="M959.5,323.9H69.9c-4.8,0-8.7-3.9-8.7-8.7V142.7c0-4.8,3.9-8.7,8.7-8.7h889.7c4.8,0,8.7,3.9,8.7,8.7v172.5
+		C968.2,320,964.3,323.9,959.5,323.9z"/>
+</g>
+<rect x="35.6" y="56.9" class="st0" width="941.1" height="14.2"/>
+<rect x="35.6" y="83.1" class="st0" width="941.1" height="14.2"/>
+<rect x="35.6" y="19.4" class="st0" width="941.1" height="28.3"/>
+<g>
+	<path id="right_outsideCutPath" vector-effect="non-scaling-stroke" class="st0" d="M1005.2,240.4h26.6v8.5h40.4v-8.5h26.6V189
+		h-8.5v-40.4h8.5v-40.3h-8.5V67.9h8.5V27.5v-11h-26.6V8h-40.4v8.5h-26.6L1005.2,240.4L1005.2,240.4z"/>
+	<path class="st0" d="M1066.4,211.8h-25.1c-3.2,0-5.7-2.6-5.7-5.7V175c0-3.2,2.6-5.7,5.7-5.7h25.1c3.2,0,5.7,2.6,5.7,5.7v31.1
+		C1072.1,209.2,1069.5,211.8,1066.4,211.8z"/>
+</g>
+</svg>
