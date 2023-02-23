@@ -19,15 +19,3 @@ really cool IoT things:
 ![Case](./content/box_joint_case.png)
 ![Grill](./content/diffuser_grill.png)
 
-## Future enhancements
-1. Add a countdown timer functionality. I use an egg timer regularly at my desk for Pomodoro type focus sprints. 
-I'd like to use the builtin buttons on the Galactic Unicorn to set timers quickly and have the built-in speaker
-play a MIDI tune when the timer ends.
-
-2. Add a message board reader. The message loop will listen on an MQTT channel for events fired from other applications.
-The message will be displayed, then resume acting like a clock.
-
-
-I'll work on these on a future sprint, but if anyone wants to collaborate on those additions, I'd be really 
-excited to work with you!
-
