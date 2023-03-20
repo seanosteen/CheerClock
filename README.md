@@ -16,6 +16,9 @@ really cool IoT things:
 
 ![Display Case](./content/GalacticUnicorn_BoxJoint_Case_3mm_ply.png)
 
+## About the Galactic Unicorn case:
+There have been several follow up questions about the case and the diffuser. It may actually be the more popular part of this project.  The case was made out of 3mm birch plywood (baltic birch if you can find it). The diffuser is 3mm translucent white acrylic with a matte black paint layer on one side. The laser engraving, identified in blue on the digital files, ablades the paint layer to reveal a clean grid for the Galactic Unicorn LEDs behind.  Both the case and the diffuser files are available in the [Case_Template](./Case_Template) folder of this repository.
+
 ![Case](./content/box_joint_case.png)
 ![Grill](./content/diffuser_grill.png)
 
