@@ -41,6 +41,8 @@ if WDT_ENABLED:
     wdt = WDT(timeout=10000)
 
 #Create a single wlan object and use as a global for all net calls
+# If you are running on MicroPython v1.20+, I recommend setting the hostname by uncommenting the line below.
+#network.hostname('CheerCLock')
 wlan = network.WLAN(network.STA_IF)
 
 # create galactic object and graphics surface for drawing
